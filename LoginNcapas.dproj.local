@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/28 16:33:54.000.478,=C:\Users\DavidMR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 16:41:22.000.796,C:\Users\DavidMR\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\githubDelphi\LoginNcapas\uFormLogin.pas</Transaction>
+    <Transaction>2024/11/28 16:41:22.000.796,C:\Users\DavidMR\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\githubDelphi\LoginNcapas\uFormLogin.dfm</Transaction>
+    <Transaction>2024/11/28 16:41:32.000.343,C:\Users\DavidMR\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\githubDelphi\LoginNcapas\LoginNcapas.dproj</Transaction>
+    <Transaction>2024/11/28 16:59:30.000.294,=C:\githubDelphi\LoginNcapas\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 16:59:52.000.653,C:\githubDelphi\LoginNcapas\Unit1.pas=C:\githubDelphi\LoginNcapas\uClassUsuario.pas</Transaction>
+    <Transaction>2024/11/28 17:12:08.000.729,=C:\githubDelphi\LoginNcapas\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 17:12:22.000.042,C:\githubDelphi\LoginNcapas\Unit1.pas=C:\githubDelphi\LoginNcapas\logica.pas</Transaction>
+    <Transaction>2024/11/28 21:31:51.000.065,=C:\githubDelphi\LoginNcapasV2\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 21:32:23.000.040,C:\githubDelphi\LoginNcapasV2\Unit1.dfm=C:\githubDelphi\LoginNcapasV2\uformprincipal.dfm</Transaction>
+    <Transaction>2024/11/28 21:32:23.000.040,C:\githubDelphi\LoginNcapasV2\Unit1.pas=C:\githubDelphi\LoginNcapasV2\uformprincipal.pas</Transaction>
+    <Transaction>2024/12/01 20:13:06.000.489,=C:\githubDelphi\LoginNcapasV2\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 20:18:26.000.553,C:\githubDelphi\LoginNcapasV2\Unit1.pas=C:\githubDelphi\LoginNcapasV2\uFormCambioContrasena.pas</Transaction>
+    <Transaction>2024/12/01 20:18:26.000.553,C:\githubDelphi\LoginNcapasV2\Unit1.dfm=C:\githubDelphi\LoginNcapasV2\uFormCambioContrasena.dfm</Transaction>
+    <Transaction>2024/12/01 22:27:52.000.383,=C:\githubDelphi\LoginNcapasV2\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 22:28:51.000.820,C:\githubDelphi\LoginNcapasV2\Unit1.pas=C:\githubDelphi\LoginNcapasV2\uFormGestionUsuarios.pas</Transaction>
+    <Transaction>2024/12/01 22:28:51.000.820,C:\githubDelphi\LoginNcapasV2\Unit1.dfm=C:\githubDelphi\LoginNcapasV2\uFormGestionUsuarios.dfm</Transaction>
+    <Transaction>2025/02/22 21:57:36.000.816,C:\githubDelphi\LoginNcapasV2\forms\uformprincipal.dfm=C:\githubDelphi\LoginNcapasV2\uformprincipal.dfm</Transaction>
+    <Transaction>2025/02/22 21:57:36.000.816,C:\githubDelphi\LoginNcapasV2\forms\uformprincipal.pas=C:\githubDelphi\LoginNcapasV2\uformprincipal.pas</Transaction>
+    <Transaction>2025/02/22 22:00:30.000.115,C:\githubDelphi\LoginNcapasV2\forms\uFormCambioContrasena.pas=C:\githubDelphi\LoginNcapasV2\uFormCambioContrasena.pas</Transaction>
+    <Transaction>2025/02/22 22:00:30.000.115,C:\githubDelphi\LoginNcapasV2\forms\uFormCambioContrasena.dfm=C:\githubDelphi\LoginNcapasV2\uFormCambioContrasena.dfm</Transaction>
+    <Transaction>2025/02/22 22:00:43.000.100,C:\githubDelphi\LoginNcapasV2\forms\uFormGestionUsuarios.dfm=C:\githubDelphi\LoginNcapasV2\uFormGestionUsuarios.dfm</Transaction>
+    <Transaction>2025/02/22 22:00:43.000.100,C:\githubDelphi\LoginNcapasV2\forms\uFormGestionUsuarios.pas=C:\githubDelphi\LoginNcapasV2\uFormGestionUsuarios.pas</Transaction>
+    <Transaction>2025/02/22 22:01:10.000.428,C:\githubDelphi\LoginNcapasV2\forms\uFormLogin.dfm=C:\githubDelphi\LoginNcapasV2\uFormLogin.dfm</Transaction>
+    <Transaction>2025/02/22 22:01:10.000.428,C:\githubDelphi\LoginNcapasV2\forms\uFormLogin.pas=C:\githubDelphi\LoginNcapasV2\uFormLogin.pas</Transaction>
+    <Transaction>2025/02/22 22:01:19.000.490,C:\githubDelphi\LoginNcapasV2\logica\logica.pas=C:\githubDelphi\LoginNcapasV2\logica.pas</Transaction>
+    <Transaction>2025/02/22 22:01:35.000.818,C:\githubDelphi\LoginNcapasV2\clases\uClassUsuario.pas=C:\githubDelphi\LoginNcapasV2\uClassUsuario.pas</Transaction>
+  </Transactions>
+</BorlandProject>

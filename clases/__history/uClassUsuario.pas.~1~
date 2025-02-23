@@ -1,0 +1,45 @@
+{
+Ejemplo Login usuario Basico:
+ -sin encripctacion
+ -con control de roles
+ DamoraDev 28/11/2024, Rad Studio 11
+}
+unit uClassUsuario;
+
+interface
+uses  System.SysUtils,
+      System.Classes;
+Type TUsuario = Class
+       Private
+           FIdUsuario:string;
+           FContrasena:String;
+           FActivo:boolean;
+           FRol:integer;
+       Public
+         Property IdUsuario:String read FIdUsuario write FIdUsuario;
+         Property Contrasena:String read FContrasena write FContrasena;
+         Property Activo:boolean read FActivo write FActivo;
+         Property Rol:integer read FRol write FRol;
+         Constructor Create;
+         Destructor Destroy;
+         Procedure Free;
+End;
+
+implementation
+
+Procedure TUsuario.Free;
+Begin
+  if self<>nil then destroy;
+End;
+Destructor TUsuario.Destroy;
+Begin
+  inherited Destroy;
+End;
+Constructor TUsuario.create;
+  Begin
+    idUsuario:='';
+    contrasena:='';
+    activo:=true;
+    rol:=1;  // no crear el usuario 0 o admin por defecto
+  End;
+end.
